@@ -1,16 +1,11 @@
-# flutter_dictionary
+# Dictionary App
 
-A new Flutter project.
+A easy to use dictionary app for you to look up meanings and use cases of unknown words. Made with Flutter and the Bloc Pattern.
 
-## Getting Started
+## App Features
+- Home screen where you can type in a word to search
+- Results screen displays a list of words with different meanings but matching the search query.
+- Details screen displays a list of definations and examples of a selected word based on different contexts. 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Download APK: [apk](flutter_dictionary.apk)
